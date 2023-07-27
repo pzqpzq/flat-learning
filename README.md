@@ -1,7 +1,7 @@
 # Flat Learning
 This project includes portions of code related to Flat Learning.
 
-In the dynTest/old_codes directory, we release the main codes of our published paper (accepted as an oral paper at ICML-2023, url: https://icml.cc/virtual/2023/oral/25562）that introduces the DyN (Dynamics-inspired Neuromorphic) architecture. 
+In the dynTest/old_codes directory, we release the main codes of our published paper (accepted as an oral paper at ICML-2023, url: https://icml.cc/virtual/2023/oral/25562 ）that introduces the DyN (Dynamics-inspired Neuromorphic) architecture. 
 
 Any_LinearTransform_via_dyn explains how to implement the fitting process of any linear mapping (matrix) through a dynamical approach. 
 
