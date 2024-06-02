@@ -11,4 +11,10 @@ The general_fastFC section discusses how to carry out a real inference process (
 
 Other codes related to large-scale models and dyn-training from scratch will be introduced in future releases.
 
-In the KasF (Knowledge as Function) directory, we will release a knowledge inference system based on flattened dynamics. The relevant system (Albert+KasF) achieved first place in both single and multi-model categories in the CommonsenseQA leaderboard (https://www.tau-nlp.sites.tau.ac.il/csqa-leaderboard).
+In the LasF (Language tokens as Functional) directory, we release a novel language model based on flattened dynamics. 
+The proposed language model is competitive with the Transformer module in language modelling task.
+The relevant system, i.e., Albert+KasF (Knowledge as Functional), achieved first place in both single and multi-model categories in the CommonsenseQA leaderboard (https://www.tau-nlp.sites.tau.ac.il/csqa-leaderboard).
+
+In the RieM (Riemannian Metric for neural models) directory, we release a straightforward data-free algorithm that can compress a weight matrix of a pre-trained model into neuronal dynamics via the proposed Riemannian metric.
+This Neuronal Riemannian Metric is introduced by our published paper (accepted as an oral paper at ICML-2024): Data-free Neural Representation Compression with Riemannian Neural Dynamics.
+
