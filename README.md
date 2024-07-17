@@ -18,3 +18,5 @@ The relevant system, i.e., Albert+KasF (Knowledge as Functional), achieved first
 In the RieM (Riemannian Metric for neural models) directory, we release a straightforward data-free algorithm that can compress a weight matrix of a pre-trained model into neuronal dynamics via the proposed Riemannian metric.
 This Neuronal Riemannian Metric is introduced by our published paper (accepted as an oral paper at ICML-2024, url: https://openreview.net/forum?id=LTifAl5bKb), i.e., Data-free Neural Representation Compression with Riemannian Neural Dynamics.
 
+Contact with: peizhengqi22@mails.ucas.ac.cn
+
